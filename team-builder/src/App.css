@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.titleBucket{
+  display:flex;
+  justify-content:center;
+  }
+
+  h1{
+  background-image: linear-gradient(to left, violet, indigo, blue, green, gold,  orange, red);
+  -webkit-background-clip: text;
+  color: transparent;  
+}
